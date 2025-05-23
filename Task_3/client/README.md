@@ -19,8 +19,8 @@ A simple React application that uses Redux Toolkit for state management. It fetc
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/react-redux-posts.git
-cd react-redux-posts
+git clone https://github.com/huytony616/Task_BlueOC.git
+cd client
 
 ### 2. Install dependencies
 
